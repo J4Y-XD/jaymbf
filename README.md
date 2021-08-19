@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  Recode By <a href="https://www.facebook.com/Pangeran.FajarAV">J4Y-XD</a>
+  Recode By <a href="https://www.facebook.com/KingFajarID">J4Y-XD</a>
 
 </p>
 
