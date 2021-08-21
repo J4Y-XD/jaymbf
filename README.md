@@ -50,6 +50,6 @@ $ git clone https://github.com/J4Y-XD/jaymbf
 
 $ cd jaymbf
 
-$ python2 jaymbf.py
+$ python jaymbf.py
 
 ```
